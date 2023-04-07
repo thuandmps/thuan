@@ -1,0 +1,2 @@
+# thuan
+bai lab7
